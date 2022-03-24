@@ -37,6 +37,9 @@ linked to from here.  (An APE does not need to be implemented in a single pull
 request if it makes sense to implement it in discrete phases). If no code is yet
 implemented, just put "N/A"
 
+- For running MyPy and the CI: https://github.com/astropy/astropy/pull/12971
+- ...
+
 
 Implementation
 --------------
